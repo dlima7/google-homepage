@@ -1,0 +1,1 @@
+I am about to attempt to recreate the Google homepage, marking the first time I have ever written out HTML and CSS. My goal is to prove to myself that I have understood the material I have read thus far, and that I am vapable of creating a webpage, even one as simple as this.
